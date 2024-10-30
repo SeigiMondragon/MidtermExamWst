@@ -1,0 +1,77 @@
+.skills{
+    background-color:#001F3F ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+
+.skills h1{
+    color: #EAD8B1;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+
+.skill-group{
+    display: flex;
+}
+
+.skill-group img{
+    width: 200px;
+}
+
+.button-skills{
+    background-color:#222831;
+    margin: 10px 20px;
+    padding: 50px;
+    box-shadow: 0 0 10px 10px black;
+    transition: 0.5s;
+}
+
+
+
+#html:hover{
+    
+    box-shadow: 0 0 10px 10px #FF5722;
+
+}
+
+
+
+
+#css:hover{
+    box-shadow: 0 0 10px 10px #2196F3;
+}
+
+
+
+
+#java:hover{
+    box-shadow: 0 0 10px 10px white;
+}
+
+
+
+
+
+#js:hover{
+    box-shadow: 0 0 10px 10px #FFDF00;
+}
+
+
+   
+
+
+#android:hover{
+    box-shadow: 0 0 10px 10px #A6D864;
+}
+
+
+
+
+
+
+#c:hover{
+    box-shadow: 0 0 10px 10px #004482;
+}
